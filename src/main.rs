@@ -21,9 +21,9 @@ fn main() {
     {
         eyes = "       ( x x )";
     }
-    println!("{}", message);
-    println!("  \\");
-    println!("   \\");
+    println!("   <{}>", message);
+    println!("       \\");
+    println!("        \\");
     println!("        /\\_/\\");
     println!("{}", eyes);
     println!("       =( I )=");
